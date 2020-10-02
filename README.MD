@@ -3,8 +3,8 @@
 ## Getting Started
 ```
 git clone git@github.com:a-arias/nasaApiTest.git
-cd cypress
-npm install
+cd nasaApiTest
+npm i
 npm run cypress:open
 or if you want to run headless
 npx run
