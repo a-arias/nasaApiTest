@@ -1,0 +1,19 @@
+{
+  "name": "cypress-nasa-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.2.0",
+    "moment": "^2.29.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@bahmutov/cy-api": "^1.4.2"
+  }
+}
