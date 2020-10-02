@@ -2,6 +2,7 @@
 
 ## Getting Started
 ```
+git clone git@github.com:a-arias/nasaApiTest.git
 cd cypress
 npm install
 npm run cypress:open
