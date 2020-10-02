@@ -7,5 +7,5 @@ cd nasaApiTest
 npm i
 npm run cypress:open
 or if you want to run headless
-npx run
+npm run cypress:run
 ```
