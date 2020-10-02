@@ -2,9 +2,9 @@
 
 ## Getting Started
 ```
-git clone 
 cd cypress
 npm install
 npm run cypress:open
-npm run cypress:run
+or if you want to run headless
+npx run
 ```
